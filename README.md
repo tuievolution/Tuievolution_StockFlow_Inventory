@@ -24,4 +24,12 @@ Ayrıca, ürün eklenirken güncel tarih ve saat bilgisi de otomatik olarak kay�
 Bu sayfa sayesinde kullanıcılar, ürünleri hem manuel olarak ekleyebiliyor hem de daha sonra bu ürünleri düzenleyip silebiliyor. Uygulama genelinde Provider ile veri yönetimi yapıldığı için, işlemler tüm bileşenler arasında anlık olarak senkronize bir şekilde çalışıyor.
 
 
+![image](https://github.com/user-attachments/assets/fb544a0c-1853-473f-894b-12b149f7b4ea)
+![image](https://github.com/user-attachments/assets/8fe39016-f9f5-4c9f-837d-a62e7383ac0b)
+![image](https://github.com/user-attachments/assets/8d81c6b9-2a90-4ad2-a735-3b162a21ba5e)
+
+
+
+
+
 
