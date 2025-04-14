@@ -203,9 +203,12 @@ class _FisSayimEkraniState extends State<FisSayimEkrani>
         bottom: TabBar(
           controller: _tabController,
           tabs: [
-            Tab(icon: Icon(Icons.search), text: 'Ara'),
-            Tab(icon: Icon(Icons.list), text: 'Liste'),
-            Tab(icon: Icon(Icons.calculate), text: 'Toplam'),
+            Tab(icon: Icon(Icons.search, color: Colors.white), text: 'Ara'),
+            Tab(icon: Icon(Icons.list, color: Colors.white), text: 'Liste'),
+            Tab(
+              icon: Icon(Icons.calculate, color: Colors.white),
+              text: 'Toplam',
+            ),
           ],
         ),
       ),
@@ -1035,7 +1038,7 @@ class _ProductListItemState extends State<ProductListItem> {
                   'Güncelle',
                   style: TextStyle(fontSize: 16, color: Colors.white),
                 ),
-              ),
+                              ),
             ],
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(15),
