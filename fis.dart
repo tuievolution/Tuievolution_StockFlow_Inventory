@@ -556,7 +556,7 @@ class _FisSayimEkraniState extends State<FisSayimEkrani>
                   TextField(
                     controller: urunAdiController,
                     decoration: InputDecoration(
-                      labelText: 'Ürün Adı (opsiyonel)',
+                      labelText: 'Ürün Adı',
                     ),
                   ),
                   TextField(
